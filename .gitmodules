@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GRSxE"]
+	path = GRSxE
+	url = https://github.com/cran/GRSxE
+	shallow = true
+	registered = true
+[submodule "logicDT"]
+	path = logicDT
+	url = https://github.com/cran/logicDT
+	shallow = true
+	registered = true
